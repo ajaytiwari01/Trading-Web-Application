@@ -54,7 +54,7 @@ Trading-Web-Application/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/Trading-Web-Application.git
+git clone https://github.com/ajaytiwari01/Trading-Web-Application.git
 cd Trading-Web-Application
 ```
 
